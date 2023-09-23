@@ -1,0 +1,28 @@
+.resume {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #E1DEE3;
+    font-family: Arial, sans-serif;
+}
+h1,h2 {
+color:  #3A4F41;
+}
+a 
+{
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+
+    margin-bottom: 10px;
+}
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
